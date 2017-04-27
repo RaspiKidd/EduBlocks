@@ -1,0 +1,45 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="mcimport" id="Moq%m._It;Q?mFcV-BO~" x="103" y="12">
+    <next>
+      <block type="time" id="8cI{pNk?)x%VJVS7nSo#">
+        <next>
+          <block type="mccreate" id="(iu}_Enm==W/Z.MHXK]V">
+            <next>
+              <block type="while_true" id="b{xai#%P7NEvz/-[{_j*">
+                <statement name="DO">
+                  <block type="mcvar" id="G@UajeE1AQ035b7IM`m=">
+                    <next>
+                      <block type="getblock" id="3=5|yv.j|4dn=5pXJ{RL">
+                        <field name="x">0</field>
+                        <field name="y">0</field>
+                        <field name="z">0</field>
+                        <next>
+                          <block type="if" id="jFK60{}+~gM(?;JF%*Sc">
+                            <field name="var">blockType==2</field>
+                            <statement name="DO">
+                              <block type="mctext2" id="`o9MP%ia?-wdM!FO(uJj">
+                                <field name="x">x</field>
+                                <field name="y">y</field>
+                                <field name="z">z</field>
+                                <field name="i">38</field>
+                              </block>
+                            </statement>
+                            <next>
+                              <block type="sleep" id="ms6N/x9@x(j6:At?Pwz~">
+                                <field name="sleepTime">0.1</field>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </statement>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

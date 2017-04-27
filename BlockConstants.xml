@@ -1,0 +1,27 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="mcimport" id="_BnJj{-j-/~*Sr[7pvnR" x="64" y="6">
+    <next>
+      <block type="import_block" id="zd:]kjV6(wzx=%3?0ec@">
+        <next>
+          <block type="mccreate" id="]7hGHv-bNA_FEKcZ3;sZ">
+            <next>
+              <block type="mctext2" id="ZcFXF:rtD/P~-Ju(=)*j">
+                <field name="x">x+3</field>
+                <field name="y">y</field>
+                <field name="z">z</field>
+                <field name="i">block.STONE.id</field>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+  <block type="mctext5" id=".-X8^rao*8I8j?B(Yw!g" x="40" y="221">
+    <field name="x">x</field>
+    <field name="y">y</field>
+    <field name="z">z</field>
+    <field name="p">WOOL</field>
+    <field name="i">1</field>
+  </block>
+</xml>

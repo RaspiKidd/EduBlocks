@@ -1,0 +1,21 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="mcimport" id="_BnJj{-j-/~*Sr[7pvnR" x="64" y="6">
+    <next>
+      <block type="mccreate" id="]7hGHv-bNA_FEKcZ3;sZ">
+        <next>
+          <block type="mcvar" id="4fk#j}UV64BI1`Kmi-wf">
+            <next>
+              <block type="mctext5" id=".-X8^rao*8I8j?B(Yw!g">
+                <field name="x">x+1</field>
+                <field name="y">y</field>
+                <field name="z">z</field>
+                <field name="p">1</field>
+                <field name="i">35</field>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

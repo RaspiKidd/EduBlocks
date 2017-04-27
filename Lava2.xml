@@ -1,0 +1,50 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="mcimport" id="}tGr[Fa14(8h?t#!!OUb" x="130" y="0">
+    <next>
+      <block type="time" id="EABkOmkPAmTS6wnkX-)v">
+        <next>
+          <block type="mccreate" id="]6_Z?!3MCr*nxW943?CW">
+            <next>
+              <block type="mcvar" id="#:`@azu]~ErWAm%~5Xx4">
+                <next>
+                  <block type="mctext2" id="hBl4ZqlA+W/AneC[7x.]">
+                    <field name="x">x+3</field>
+                    <field name="y">y+3</field>
+                    <field name="z">z</field>
+                    <field name="i">10</field>
+                    <next>
+                      <block type="sleep" id="Cn^|tgLH2wt?}r)`(2eM">
+                        <field name="sleepTime">20</field>
+                        <next>
+                          <block type="mctext2" id="Q5C/sE|9*P[*Y^QrM-ut">
+                            <field name="x">x</field>
+                            <field name="y">y</field>
+                            <field name="z">z</field>
+                            <field name="i">8</field>
+                            <next>
+                              <block type="sleep" id="eJ%[Q#u-wt9[kgXJPm7}">
+                                <field name="sleepTime">4</field>
+                                <next>
+                                  <block type="mctext2" id="exT{%zO[abg3u8Firdun">
+                                    <field name="x">x</field>
+                                    <field name="y">y</field>
+                                    <field name="z">z</field>
+                                    <field name="i">0</field>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

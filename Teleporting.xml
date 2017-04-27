@@ -1,0 +1,19 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="mcimport" id="cB1c_(M~dH+a]XVZ6#pv" x="177" y="43">
+    <next>
+      <block type="mccreate" id="[J,ENKyE@drA6?3RjCaY">
+        <next>
+          <block type="mcvar" id="X}5Nf#NufCsnfWWs?}H!">
+            <next>
+              <block type="setpos" id="#G270M{#3O.;!0.Z9E4v">
+                <field name="x">0</field>
+                <field name="y">100</field>
+                <field name="z">0</field>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

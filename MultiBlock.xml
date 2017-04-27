@@ -1,0 +1,24 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="mcimport" id="2`h{p[.6ss/FBK}Z?gzQ" x="76" y="33">
+    <next>
+      <block type="mccreate" id="Hox6{(pS_f7`^OUlI}X.">
+        <next>
+          <block type="mcvar" id="fp4cM;PA8!rt)zOnBCL{">
+            <next>
+              <block type="mcblocks8" id="f-q9fCZcdazSd|p/T*`Q">
+                <field name="x">x+1</field>
+                <field name="y">y+1</field>
+                <field name="z">z+1</field>
+                <field name="q">x+11</field>
+                <field name="w">y+11</field>
+                <field name="e">z+11</field>
+                <field name="r">1</field>
+                <field name="t">0</field>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

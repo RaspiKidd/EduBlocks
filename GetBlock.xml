@@ -1,0 +1,24 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="mcimport" id="Moq%m._It;Q?mFcV-BO~" x="103" y="12">
+    <next>
+      <block type="mccreate" id="(iu}_Enm==W/Z.MHXK]V">
+        <next>
+          <block type="mcvar" id="G@UajeE1AQ035b7IM`m=">
+            <next>
+              <block type="getblock" id="3=5|yv.j|4dn=5pXJ{RL">
+                <field name="x">0</field>
+                <field name="y">0</field>
+                <field name="z">0</field>
+                <next>
+                  <block type="varprint" id="v!tgi(_+J;yg5?)HHUI;">
+                    <field name="var">blockType</field>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

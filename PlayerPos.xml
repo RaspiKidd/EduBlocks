@@ -1,0 +1,17 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="mcimport" id="cB1c_(M~dH+a]XVZ6#pv" x="177" y="43">
+    <next>
+      <block type="mccreate" id="[J,ENKyE@drA6?3RjCaY">
+        <next>
+          <block type="mcpos" id="965*mCW3I*Qz-=[zJ|s_">
+            <next>
+              <block type="mcpost" id="RrO4?KnlYr#`/;QPgu;E">
+                <field name="chat">playerPos</field>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

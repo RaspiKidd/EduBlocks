@@ -1,0 +1,93 @@
+﻿<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="mcimport" id="E-EYz]vV_J9*m@ypNA~`" x="102" y="21">
+    <next>
+      <block type="time" id="qRMi*Y^a_y.I5K`2meut">
+        <next>
+          <block type="mccreate" id="TqG8_`.eH04.ebm*-4lJ">
+            <next>
+              <block type="equalsblock" id="`M9{zX_^!bYhAK,hozQ{">
+                <field name="1">length</field>
+                <field name="2">6</field>
+                <next>
+                  <block type="equalsblock" id="bm[wxo-_WqUjTiTL:1M5">
+                    <field name="1">width</field>
+                    <field name="2">6</field>
+                    <next>
+                      <block type="equalsblock" id=":gRN1PT%428|Zi{|C4@=">
+                        <field name="1">height</field>
+                        <field name="2">6</field>
+                        <next>
+                          <block type="equalsblock" id="tv;mMY|@6mR4Y1uBh%}t">
+                            <field name="1">stone</field>
+                            <field name="2">4</field>
+                            <next>
+                              <block type="equalsblock" id="LQjw37`gxylr.:K6~/{U">
+                                <field name="1">air</field>
+                                <field name="2">0</field>
+                                <next>
+                                  <block type="equalsblock" id="m6}[==bcCb*^Q|Es*^#5">
+                                    <field name="1">door</field>
+                                    <field name="2">68</field>
+                                    <next>
+                                      <block type="mcpost" id="=lZKAeEm!W;5Y|pr-?t6">
+                                        <field name="chat">Build a House</field>
+                                        <next>
+                                          <block type="mcvar" id="XrjWx7M!Rn%h)ae1v5I-">
+                                            <next>
+                                              <block type="mcblocks8" id="VFW,nv#H!376Qn-00^;*">
+                                                <field name="x">x+1</field>
+                                                <field name="y">y</field>
+                                                <field name="z">z</field>
+                                                <field name="q">x+width+1</field>
+                                                <field name="w">y+height</field>
+                                                <field name="e">z+length</field>
+                                                <field name="r">stone</field>
+                                                <field name="t">0</field>
+                                                <next>
+                                                  <block type="mcblocks8" id="RK}`n|_I)-2U)gs2q-CS">
+                                                    <field name="x">x+2</field>
+                                                    <field name="y">y</field>
+                                                    <field name="z">z+1</field>
+                                                    <field name="q">x+width-1</field>
+                                                    <field name="w">y+height-1</field>
+                                                    <field name="e">z+length-1</field>
+                                                    <field name="r">air</field>
+                                                    <field name="t">0</field>
+                                                    <next>
+                                                      <block type="mcblocks8" id="1RYbM1iU=J[xd1l:r~x3">
+                                                        <field name="x">x+1</field>
+                                                        <field name="y">y</field>
+                                                        <field name="z">z+3</field>
+                                                        <field name="q">x+1</field>
+                                                        <field name="w">y+2</field>
+                                                        <field name="e">z+4</field>
+                                                        <field name="r">door</field>
+                                                        <field name="t">0</field>
+                                                      </block>
+                                                    </next>
+                                                  </block>
+                                                </next>
+                                              </block>
+                                            </next>
+                                          </block>
+                                        </next>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

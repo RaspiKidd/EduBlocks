@@ -1,0 +1,24 @@
+﻿<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="mcimport" id="E-EYz]vV_J9*m@ypNA~`" x="102" y="21">
+    <next>
+      <block type="mccreate" id="TqG8_`.eH04.ebm*-4lJ">
+        <next>
+          <block type="mcpost" id="=lZKAeEm!W;5Y|pr-?t6">
+            <field name="chat">Jump</field>
+            <next>
+              <block type="mcvar" id="XrjWx7M!Rn%h)ae1v5I-">
+                <next>
+                  <block type="setpos" id="ipg?Z;p}z+`O;{m+{#8u">
+                    <field name="x">0</field>
+                    <field name="y">50</field>
+                    <field name="z">0</field>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>
